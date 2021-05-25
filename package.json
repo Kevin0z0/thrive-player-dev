@@ -1,0 +1,14 @@
+{
+  "name": "thrive-player-dev",
+  "version": "0.0.1.alpha",
+  "description": "Thrive Player develop tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "player"
+  ],
+  "author": "Kevin0z0",
+  "license": "MIT"
+}

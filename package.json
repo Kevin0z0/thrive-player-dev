@@ -10,5 +10,13 @@
     "player"
   ],
   "author": "Kevin0z0",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/Kevin0z0/thrive-player-dev#readme",
+  "bugs": {
+    "url": "https://github.com/Kevin0z0/thrive-player-dev/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevin0z0/thrive-player-dev.git"
+  }
 }
